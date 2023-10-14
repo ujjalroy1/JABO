@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="506.0" prefWidth="642.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Jabo.WrongFXMLController">
+   <children>
+      <TextArea editable="false" layoutX="6.0" prefHeight="506.0" prefWidth="642.0" text="Sorry!!!!:( you make some mistake like you did not fill some field or you &#10;enter newline for short note or space for other field somewhere.&#10;thanks for trying to add path in my data base . that will be help for other.&#10;Please try again :)&#10;[Note:Be care full to fill time filed don't Keep &#10;blank any filed like hour , minutes or second. &#10;If anyone is zero thenfill it by 0] ">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="506.0" prefWidth="642.0" style="-fx-background-color: #fcfca9;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Jabo.RightFXMLController">
+   <children>
+      <TextArea layoutX="4.0" layoutY="1.0" prefHeight="506.0" prefWidth="642.0" text="Your path successfully added!!!! Thanks for adding this path . Please add more path&#10;for Becaming me  advanced. I can only learn from human.Please help me I am always &#10;ready to help human ">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>

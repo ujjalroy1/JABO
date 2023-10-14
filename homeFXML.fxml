@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="506.0" prefWidth="659.0" style="-fx-background-color: #fcfca9;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Jabo.HomeFXMLController">
+   <children>
+      <TextArea editable="false" layoutX="-2.0" prefHeight="506.0" prefWidth="668.0" style="-fx-background-color: #edd080;" text="Indroduce : &#10;This application create to help people who want to go unknown places&#10;but He/She does not know how to go there.Our application will help &#10;Them just He/She enter source and destination of this places this apps&#10;provides details how to go and how many time needed and how much&#10;money will be spend . It also gives the shorted stopes , less time and less &#10;money need and create a decision based on your criteria...hopefully it&#10;will help you a lot.&#10;&#10;Power : &#10;1.This application provides more specific and more clear Path.&#10;2.This textbase application you will get two type of description&#10;one is shorter and another is details about the path.&#10;3.It provide you Suggestion with all details so you no need to worry &#10;about jurney.&#10;&#10;Limitations : &#10;the main limitation of this application is misspelling. If you make a little &#10;bit misspelling the result may not found.so you should carefull spelling &#10;when you search. And another limitation is sometime it makes same &#10;path for different parameter like less cost ,less time depending on database&#10;&#10;Conclusion :&#10;This application is generate more clear and specific response. this provide &#10;you more efficient response day by day beacause of updating data. It &#10;always under updating database">
+         <font>
+            <Font size="20.0" />
+         </font>
+      </TextArea>
+   </children>
+</AnchorPane>

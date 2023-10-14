@@ -1,0 +1,111 @@
+Basherhat doshmail auto 1200 15 you will get auto in front of Hstu main gate. for doshmail abailable anywhere
+doshmail panchagarh_gol_chottor bus 7200 150 you will get bus at doshmail to panchagarh road, the bus is available panchagarh gol chottor
+panchagarh_gol_chottor dhakkamara auto 600 5 you will get auto at panchagarh gol chottor. you will get auto at dhakkamara
+basherhat ranirbondor bus 1800 40 bus is available at hstu main gate, for ranirbondor bus is avaible
+ranirbondor tarokshar_hat van 600 15 you will get van at ranirbondor, you will get van at taroskar_hat
+basherhat moharaja_mor auto 1800 20 you will get available auto at hstu main gate, also get auto at moharaja_mor
+moharaja_mor vober_bazar bus 2700 50 bus is available at moharaja mor, you will get bus at dinajpur to parbatipur road
+Dinajpur Opda bus 3600 70 for dinajpur we get bus in fornt of hstu main gate for opda we will get bus at opdamor
+opda domar bus 1800 80 we will get bus at opdamor for domar it bus statio
+domar panga auto 1800 30 for domar auto is auto station for pagne auto is pangar hat
+BasherHat Opda bus 3600 70 for Basherhat we will get bus at HSTU main gate for opda bus in opda more
+opda saidpur_Railway_station auto 900 10 we will get auto in opdamore and station
+saidpur_Railway_station jashore_Railway_station train 27000 395 railway station
+jashore_Railway_station charsramor auto 600 10 we will get auto at station
+charsramor baganchara bus 5410 80 we will get bus at charsramor ,for baganchara station
+basherhat kalitola auto 1500 20 for basherhat we will get auto in front of HSTU main gate.For Kalitola we get auto at kalitola mor
+kalitola Mymensingh_sadar Bus 37800 800 We will get bus at kalitola bus stand and for Mymensingh_sadar we will get bus at Mymensingh bus stand
+Mymensingh_sadar Aqua auto 600 10 for Aqua you will get auto at townhall moor. for Aqua you get auto at anywhere
+basherhat terminal auto 1200 10 auto is available at hstu main gate, also auto/bus/cng available at terminal
+terminal gabindaganj_jail_mor bus 9000 300 bus is available at terminal, also available at gabindaganj_jail_mor
+gabindaganj_jail_mor goruhati rickshaw 600 15 rickshaw is available at gabindaganj_jail_mor, also available at goruhati
+goruhati khoria cng 1800 15 cng is availble at goruhati, also available at khoria
+basherhat dinajpur_railway_station auto 1500 25 you will get auto at basher hat , hstu main gate; also you will get auto at dinajpur railway station
+dinajpur_railway_station rajshahi_railway_station train 18000 240 you will get train at dinajpur railway station in morning, also you will get train at rajshahi railway station at night
+rajshahi_railway_station bissoraod_mor bus 4500 110 bus is available outside of rajshahi railway station, also you will get bus at chapai nawabgonj bissoraod mor
+bissoroad_mor balubagan rickshaw 900 15 rickshaw is availble in bissoraod mor, also available at balubagan
+hstu_main_gate dinajpur_railway_station auto 1800 20 you will get auto at basher hat hstu main gate, also you will get auto at dinajpur railway station
+dinajpur_railway_station komolapur_railway_station train 28800 470 you will get dhaka train from dinajpur railway station, also you will get train from komolapur railway station
+kamalapur_railway_station syedpur bus 7200 300 bus is available at opposite of kamalapur railway station, bus is available from syedpur
+basherhat mokamtola bus 14400 250 you will get time bus at basherhat , hstu main gate, also you will get bus at mokamtola bus station
+mokamtola deuli auto 900 10 auto is available at mokamtola, also available at deuli
+dinajpur_railway_station natore_railway_station train 14400 190 train is available in time, also available from natore
+natore_railway_station khanaikhali auto 900 10 auto is available in front of natore railway station, also available at khanakhali
+kalitola gabtoli_bus_stand bus 32400 900 bus is available at kalitola bus stand, also available at gabtoli dhaka
+gabtoli_bus_stand farmgate local_bus 2400 20 bus is available at anywhere for both
+gabtoli_bus_stand farmgate cng 1800 200 cng is available anywhere for both
+basherhat kalitola auto 1200 20 auto is available at basherhat hstu main, also available at kalitola
+farmgate kolabagan rickshaw 600 30 rickshaw is available anywhere for both
+kolabagan khagrachari bus 32400 850 bus is available at kolabagan, also available khagrachari bus stand
+basherhat kalibari_bridge bus 3600 100 you will gate bus at hstu main gate and kalibari
+kalibari_bridge art_gallery auto 600 10 auto is available anywhere for both
+basherhat bogura_shatmhata bus 14400 470 bus is available anywhere for both
+art_gallery nekmorod auto 9000 60 you will get auto anywhere both
+nekmorod moharaja_bazar auto 1800 20 you can get auto anywhere both
+fakirpara dinajpur_bus_terminal auto 900 10 you can get auto anywhere both
+dinajpur_bus_terminal gaibandha bus 9000 200 you will get bus at bus terminal
+basherhat doshmail auto 1800 15 you will get anywhere both
+dinajpur_railway_station tangail_railway_station train 25200 400 you will get train at specific time
+dinajpur tangail train 25200 400 you will get train at specific time
+dinjapur_railway_station tangail train 25200 400 you will get train at specific time
+dinajpur_railway_station tangail train 21600 400 train  is abilable at station for both
+dinajpur dinajpur_railway_station auto 1200 10 auto is available anywhere for both
+rajshahi_railway_station seroil_mosjid rickshaw 1200 20 rickshaw is available anywhere for both
+basherhat vulli bus 5400 140 bus is available at bus station
+rajshahi_railway_station rajshahi auto 1200 15 auto is available any where in rajshahi
+vulli jativanga auto 1800 25 auto is available in road
+thakurgaon thakurgaon_bus_stand auto 1200 15 auto is available anywhere in thakurgaon
+basherhat thakurgaon_bus_stand bus 5400 140 bus is available at hstu main gate, also available at thakurgaon local bus stand
+kalitola sirajgonj bus 21600 500 bus is available at kalitola bus stand and also sirajgonj bus stand
+kalitola savar bus 36000 1100 bus is available kalitola bus stand, dinajpur also available at savar bus stand
+basherhat lilir_mor auto 1200 20 auto is available in front of hstu main gate, also available at lilir mor
+lilir_mor pirgonj bus 4500 80 bus is available at lilir mor, also available at pirgonj bus stand
+pirgonj ranisankail bus 1800 25 bus is available at pirgonj local bus stand, also available at ranisankail main road
+ranisankail rampur bus 900 15 bus is available at main road for both
+rampur jaogaon van 900 10 van is available anywhere for both
+basherhat rangpur_medical_mor bus 5400 150 you will get bus at hstu main gate, also you will get bus at rangpur medical mor
+basherhat rangpur bus 5400 150 bus is available at basherhat , also at rangpur bus stand
+rangpur_medical_mor rangpur_shapla auto 1800 30 auto is available in rangpur
+rangpur_shapla robertsonganj auto 1200 20 auto is availble in rangpur
+basherhat balubari_shahi_mosjid_more auto 1800 30 auto is available in dinajpur
+basherhat mymensingh_townhall bus 36000 800 bus is available at right time in basherhat, also available in mymensingh townhall
+mymensingh_townhall aqua_bypass rickshaw 1200 30 rickshaw is available in mymensingh
+kornai basherhat van 600 10 van is available at kornai, also available at basherhat
+basherhat mymensingh_bridge_more bus 37800 800 bus is available at basherhat, also available at bridge more in mymensingh
+mymensingh_bridge_more ishwarganj cng 3000 50 cng is available in mymensingh
+ishwarganj ishwarganj_college_more auto 600 10 auto is available in mymensingh
+basherhat dinajpur auto 1200 25 auto is available in dinajpur
+dinajpur_railway_station tangail_railway_station train 21600 400 train is available at right time in railway station for both
+tangail_railway_station madhupur bus 5400 70 bus is available at railway station bus stand, also is available at madhupur railway station
+madhupur poddarbari auto 600 10 auto is available in tangail
+basherhat dinajpur_college_more auto 900 10 auto is available in dinajpur
+dinajpur_college_more dinajpur_bus_stand auto 900 10 auto is available in dinajpur
+dinajpur_bus_stand rangpur bus 7200 170 bus is available at dinajpur bus stand also available in rangpur bus stand
+rangpur gangachara auto 1800 20 auto is available in rangpur
+basherhat saidpur_biman_bondor micro 4500 200 you cane use your won micro or ubar for both places
+opda saidpur_biman_bondor micro 900 100 You will get micro by calling ubar
+basherhat saidpur_bimanbondor microcar 3600 300 you will get microcar at hstu main gate, also available at saidpur bimanbandr
+saidpur_bimanbondor dhaka_airpot flight 3600 3000 flight is available for both airport
+dhaka_airport dhaka uber 1800 300 uber is available in dhaka
+dhaka kamlapur_railway_station bus 3600 50 bus is available in bus
+kalitola dhaka bus 30600 800 bus is available at kalitola bus stand, also available in dhaka
+basherhat dinajpur_railway_station auto 1500 20 auto is available in dinajpur
+dinajpur_railway_station kamlapur_railway_station train 34200 450 you will get train at right time in station
+dhaka_airport saidpur_bimanbondor flight 3600 3000 flight is available at both airport
+basherhat birganj bus 2700 50 For Basherhat Bus is available at hstu main gate. For Birganj you will get bus at birganj bus stand
+gabtoli_bus_stand bagerhat Bus 21600 450 Bus is available at Gabtoli bus stand and also at Bagerhat
+gabtoli_bus_stand bandarban bus 39600 800 bus is available at gabtoli bus stand also for bandarban bus terminal
+dinajpur kalitola auto 900 15 auto is available in dinajpur
+dhaka barisal bus 28800 1000 bus is available at dhaka bus stand, also for barisal bus stand
+bogra dinajpur bus 12600 300 bus is available at dinajpur bus terminal, also available in bogra sath matha
+kamlapur_railway_station brahmanbaria train 9000 120 train is available in station
+chattogram komlapur_railway_station train 30600 400 train is available for both stations
+comilla kamlapur_railway_station bus 9000 300 you will get bus at opposite side of kamalapur railway station, also in comilla bus stand
+dinajpur rangpur bus 6300 150 bus is available in dinajpur bus terminal also for rangpur bus terminal
+rangpur gaibandha bus 7200 180 bus is available at rangpur bus terminal also for gaibandha bus stand
+gopalgonj dhaka bus 25200 800 bus is available at dhaka bus stand also in gopalgonj
+jashore jashore_railway_station auto 1200 20 auto is available in jashore
+dinajpur_railway_station khulna train 32400 500 train is available at both station in right time
+opda nilphamari bus 2700 40 you will get bus at opda mor also in nilphamari chowrangi
+panchagarh dinajpur_railway_station train 7200 100 you will get train at dinajpur_railway_station also in panchagarh
+panga dimla auto 1200 15 auto is available at pangar hat.for dimla it will avaiable in road
